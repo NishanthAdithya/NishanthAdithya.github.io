@@ -1,10 +1,10 @@
 # Site settings
-title:       Aditya Agarwal
-email:       skymanaditya1@gmail.com
-author:      Aditya Agarwal
-description: "Aditya Agarwal's personal academic website"
+title:       Nishanth Adithya
+email:       adith1806@gmail.com
+author:      Nishanth Adithya
+description: "Nishanth Adithya's personal academic website"
 baseurl:     ""
-url:         "http://skymanaditya1.github.io"
+url:         "http://NishanthAdithya.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
