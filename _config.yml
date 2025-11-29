@@ -149,6 +149,7 @@ collections:
   news:
     defaults:
       layout: post
+      title: "News"
     output: true
   projects:
     output: true
