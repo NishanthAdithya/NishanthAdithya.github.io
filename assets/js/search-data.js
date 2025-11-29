@@ -47,14 +47,14 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-set-to-join-wpi-in-fall-2025-with-a-provost-s-scholarship-looking-forward-to-the-journey",
+            },},{id: "news-set-to-join-wpi-in-fall-2025-with-a-provost-s-scholarship-looking-forward-to-the-journey",
           title: 'Set to join WPI in Fall 2025 with a Provost’s Scholarship — looking...',
           description: "",
           section: "News",},{id: "news-joined-the-pear-lab-as-a-directed-researcher-working-on-agile-high-speed-drones",
           title: 'Joined the PeAR Lab as a directed researcher working on agile, high-speed drones!...',
+          description: "",
+          section: "News",},{id: "news-two-of-our-research-papers-from-the-manipulators-group-have-been-submitted-to-mechanism-and-machine-theory",
+          title: 'Two of our research papers from the Manipulators Group have been submitted to...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
