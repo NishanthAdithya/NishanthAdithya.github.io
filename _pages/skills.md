@@ -1,3 +1,10 @@
+---
+layout: page
+title: Skills
+permalink: /skills/
+nav: true
+---
+
 # ⚡ Skills & Expertise  
 A curated overview of my technical strengths, categorized and visualized with official icons, names, and proficiency levels.
 
@@ -219,5 +226,3 @@ A curated overview of my technical strengths, categorized and visualized with of
 
 # 🎉 End of Skills Page  
 Everything here automatically scales beautifully on GitHub.
-
-
