@@ -46,7 +46,7 @@ ninja.data = [{
           title: 'Set to join WPI in Fall 2025 with a Provost’s Scholarship — looking...',
           description: "",
           section: "News",},{id: "news-joined-the-pear-lab-as-a-directed-researcher-working-on-agile-high-speed-drones",
-          title: 'Joined the PeAR Lab as a directed researcher working on agile, high-speed drones!...',
+          title: 'Joined the PeAR Lab as a Directed Researcher working on agile, high-speed drones!...',
           description: "",
           section: "News",},{id: "news-joined-wpi-as-a-graduate-assistant-for-me-mte-5847-during-b-term",
           title: 'Joined WPI as a Graduate Assistant for ME/MTE 5847 during B-Term! 📝',
