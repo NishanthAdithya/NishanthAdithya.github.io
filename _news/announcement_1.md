@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the PeAR Lab as a directed researcher working on agile, high-speed drones! 🤖
+Joined the PeAR Lab as a Directed Researcher working on agile, high-speed drones! 🤖
