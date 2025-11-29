@@ -1,3 +1,11 @@
+---
+layout: default
+title: Skills
+permalink: /skills/
+nav: true
+nav_order: 4
+---
+
 # Technical Expertise  
 A curated overview of my technical strengths, categorized and visualized with official icons, names, and proficiency levels.
 
