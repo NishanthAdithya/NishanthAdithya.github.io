@@ -42,16 +42,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-set-to-join-wpi-in-fall-2025-with-a-provost-s-scholarship-looking-forward-to-the-journey",
           title: 'Set to join WPI in Fall 2025 with a Provost’s Scholarship — looking...',
           description: "",
           section: "News",},{id: "news-joined-the-pear-lab-as-a-directed-researcher-working-on-agile-high-speed-drones",
           title: 'Joined the PeAR Lab as a directed researcher working on agile, high-speed drones!...',
+          description: "",
+          section: "News",},{id: "news-joined-wpi-as-a-graduate-assistant-for-me-mte-5847-during-b-term",
+          title: 'Joined WPI as a Graduate Assistant for ME/MTE 5847 during B-Term! 📝',
           description: "",
           section: "News",},{id: "news-two-of-our-research-papers-from-the-manipulators-group-have-been-submitted-to-mechanism-and-machine-theory",
           title: 'Two of our research papers from the Manipulators Group have been submitted to...',
