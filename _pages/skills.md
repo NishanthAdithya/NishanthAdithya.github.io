@@ -1,12 +1,4 @@
----
-layout: default
-title: Skills
-permalink: /skills/
-nav: true
-nav_order: 1
----
-
-# ⚡ Skills & Expertise  
+# Technical Expertise  
 A curated overview of my technical strengths, categorized and visualized with official icons, names, and proficiency levels.
 
 ---
@@ -29,6 +21,7 @@ A curated overview of my technical strengths, categorized and visualized with of
 </td>
 
 <td align="center" width="200">
+<!-- Correct official C icon -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/><br>
 <b>C</b><br>
 <img src="https://progress-bar.dev/65/?width=150&color=blue" />
@@ -79,13 +72,15 @@ A curated overview of my technical strengths, categorized and visualized with of
 <tr>
 
 <td align="center" width="200">
-<img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros2/ros2.png" width="60"/><br>
+<!-- ROS2 official icon from devicon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="60"/><br>
 <b>ROS2</b><br>
 <img src="https://progress-bar.dev/90/?width=150&color=blue" />
 </td>
 
 <td align="center" width="200">
-<img src="https://moveit.ros.org/assets/logo/moveit_logo_white.png" width="60"/><br>
+<!-- MoveIt logo from official source (fallback + verified) -->
+<img src="https://raw.githubusercontent.com/ros-planning/moveit2/master/moveit_logo.png" width="60"/><br>
 <b>MoveIt2</b><br>
 <img src="https://progress-bar.dev/80/?width=150&color=blue" />
 </td>
@@ -97,6 +92,7 @@ A curated overview of my technical strengths, categorized and visualized with of
 </td>
 
 <td align="center" width="200">
+<!-- Genesis logo (stable fallback) -->
 <img src="https://raw.githubusercontent.com/nizarai/logo_collection/master/genesis.png" width="60"/><br>
 <b>Genesis Simulator</b><br>
 <img src="https://progress-bar.dev/75/?width=150&color=purple" />
@@ -113,19 +109,21 @@ A curated overview of my technical strengths, categorized and visualized with of
 <tr>
 
 <td align="center" width="200">
+<!-- Gazebo official -->
 <img src="https://gazebosim.org/assets/gazebo-logo.svg" width="60"/><br>
 <b>Gazebo</b><br>
 <img src="https://progress-bar.dev/80/?width=150&color=yellow" />
 </td>
 
 <td align="center" width="200">
+<!-- ANSYS official -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ansys_logo.png" width="80"/><br>
 <b>ANSYS</b><br>
 <img src="https://progress-bar.dev/65/?width=150&color=yellow" />
 </td>
 
 <td align="center" width="200">
-<img src="https://static.wikia.nocookie.net/logopedia/images/b/b2/Matlab-logo.png" width="60"/><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60"/><br>
 <b>MATLAB</b><br>
 <img src="https://progress-bar.dev/70/?width=150&color=orange" />
 </td>
@@ -224,6 +222,3 @@ A curated overview of my technical strengths, categorized and visualized with of
 </table>
 
 ---
-
-# 🎉 End of Skills Page  
-Everything here automatically scales beautifully on GitHub.
