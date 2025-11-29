@@ -4,7 +4,6 @@ A curated overview of my technical strengths, categorized and visualized with of
 ---
 
 # 🧠 Programming Languages
-
 <table>
 <tr>
 
@@ -15,21 +14,20 @@ A curated overview of my technical strengths, categorized and visualized with of
 </td>
 
 <td align="center" width="200">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="60"/><br>
 <b>C++</b><br>
 <img src="https://progress-bar.dev/75/?width=150&color=blue" />
 </td>
 
 <td align="center" width="200">
-<!-- Correct official C icon -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/><br>
+<!-- Correct hexagon C icon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="60"/><br>
 <b>C</b><br>
 <img src="https://progress-bar.dev/65/?width=150&color=blue" />
 </td>
 
 </tr>
 </table>
-
 ---
 
 # 🤖 Machine Learning & AI
