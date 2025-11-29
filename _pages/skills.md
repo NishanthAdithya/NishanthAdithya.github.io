@@ -150,13 +150,13 @@ A curated overview of my technical strengths, categorized and visualized with of
 <tr>
 
 <td align="center" width="200">
-  <img src="https://imgs.search.brave.com/g29QTjc8F3VKC_zMlmm_vL0OG_xvsrdmNCHTRFY0F9M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9zb2xpZHdvcmtz/LWxvZ28tMS5zdmc" width="60"/><br>
+  <img src="https://imgs.search.brave.com/Wg1bf7vQsrWJmHUZbSNC1tBwp8B43GztODsqiZEwX2Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/LzcwMTE4MC5wbmc" width="60"/><br>
   <b>SolidWorks</b><br>
   <span>Strength: ⭐⭐⭐⭐⭐⭐⭐⭐☆ (8/10)</span>
 </td>
 
 <td align="center" width="200">
-  <img src="https://imgs.search.brave.com/U_4sVVg-pJVlOfIUXGCSRDmLVnh4DCkzuwjWoOWfxQo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cGFkdGluYy5jb20v/c2ltdWxhdGlvbi93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8w/Mi9hbnN5cy1sb2dv/LXl3LnN2Zw"/><br>
+  <img src="https://imgs.search.brave.com/ge6MQs8AG6tsyRgiWYMDs51rYtz9ET9-Mo3c9K8XPiQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnJhbmRmZXRjaC5p/by9pZEFPR256VTRs/L3RoZW1lL2xpZ2h0/L2xvZ28uc3ZnP2M9/MWJ4aWQ2NE11cDdh/Y3pld1NBWU1YJnQ9/MTY2ODA4MDQwNjY4/NA"/><br>
   <b>ANSYS Mechanical</b><br>
   <span>Strength: ⭐⭐⭐⭐⭐⭐☆☆☆ (6/10)</span>
 </td>
