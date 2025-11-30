@@ -156,7 +156,7 @@ A curated overview of my technical strengths, categorized and visualized with of
 </td>
 
 <td align="center" width="200">
-  <img src="https://imgs.search.brave.com/ge6MQs8AG6tsyRgiWYMDs51rYtz9ET9-Mo3c9K8XPiQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnJhbmRmZXRjaC5p/by9pZEFPR256VTRs/L3RoZW1lL2xpZ2h0/L2xvZ28uc3ZnP2M9/MWJ4aWQ2NE11cDdh/Y3pld1NBWU1YJnQ9/MTY2ODA4MDQwNjY4/NA"/><br>
+  <img src="https://imgs.search.brave.com/W-okpnDW99OFoWlDP7t4Eszm51mpypV1rg6K1GzljuA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tb2h5/aWxhYnMuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE2LzAz/L2Fuc3lzLWxvZ28t/d2l0aG91dC1ibHVy/LmpwZz93PTMwMA"/><br>
   <b>ANSYS Mechanical</b><br>
   <span>Strength: ⭐⭐⭐⭐⭐⭐☆☆☆ (6/10)</span>
 </td>
